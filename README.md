@@ -74,7 +74,7 @@
 The usage ranges from simple tasks, such as opening web pages or setting a timer, to more advanced features such as sending emails or running speed tests. Providing customized features you won't find elsewhere — Octo is the best virtual assistant for you.
 
 ### Built With
-* [Python 3](https://www.python.org)
+* [Python 3.6](https://www.python.org/downloads/release/python-360/)
 * [PyQt5](https://pypi.org/project/PyQt5/)
 
 
