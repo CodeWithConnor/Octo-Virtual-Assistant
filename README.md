@@ -80,15 +80,16 @@ The usage ranges from simple tasks, such as opening web pages or setting a timer
 
 
 ### Features
-* Open Website
-* Search Google
-* Start A Timer
-* Check The Time/Date
-* Check Calendar
-* Change Wallpaper
-* Send Discord Calls
-* Send Discord Messages
-* Perform Speed Test
+* Open Websites `e.g. "Open Google"`
+* Search Google `e.g. "Search Google for a pancake recipe"`
+* Check The Time/Date `e.g. "What's the time in Lisbon, Portugal?"`
+* Create and save notes `e.g. "Remember this number"`
+
+* Start Timers `e.g. "Set a timer for 20 minutes"`
+* Check Calendar `e.g. "What have I got on for Tuesday?"`
+* Start Discord Calls `e.g. "Discord call Liam"`
+* Send Discord Messages `e.g. "Discord message Michael saying hello"`
+* Perform Speed Tests
 
 
 
