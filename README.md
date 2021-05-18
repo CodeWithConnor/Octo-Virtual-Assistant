@@ -70,9 +70,9 @@ The usage ranges from simple tasks, such as opening web pages or setting a timer
 
 ### Features
 * Open Websites `e.g. "Open website Google.com"`
-* Search Google `e.g. "Search Google for a pancake recipe"`
+* Search Google `e.g. "Search Google for vegan pancake recipe"`
 * Check The Time/Date `e.g. "What's the time?/What's the date?"`
-* Create and save notes `e.g. "Remember this number"`
+* Create and save notes `e.g. "Take a note of this"`
 
 * Start Timers `e.g. "Set a timer for 20 minutes"`
 * Check Calendar `e.g. "What have I got on for Tuesday?"`
