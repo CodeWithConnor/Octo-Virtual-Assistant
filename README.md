@@ -1,14 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -80,9 +69,9 @@ The usage ranges from simple tasks, such as opening web pages or setting a timer
 
 
 ### Features
-* Open Websites `e.g. "Open Google"`
+* Open Websites `e.g. "Open website Google.com"`
 * Search Google `e.g. "Search Google for a pancake recipe"`
-* Check The Time/Date `e.g. "What's the time in Lisbon, Portugal?"`
+* Check The Time/Date `e.g. "What's the time?/What's the date?"`
 * Create and save notes `e.g. "Remember this number"`
 
 * Start Timers `e.g. "Set a timer for 20 minutes"`
