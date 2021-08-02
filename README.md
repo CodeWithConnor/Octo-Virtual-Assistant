@@ -73,11 +73,8 @@ The usage ranges from simple tasks, such as opening web pages or setting a timer
 * Search Google `e.g. "Search Google for vegan pancake recipe"`
 * Check The Time/Date `e.g. "What's the time?/What's the date?"`
 * Create and save notes `e.g. "Take a note of this"`
-
 * Start Timers `e.g. "Set a timer for 20 minutes"`
 * Check Calendar `e.g. "What have I got on for Tuesday?"`
-* Start Discord Calls `e.g. "Discord call Liam"`
-* Send Discord Messages `e.g. "Discord message Michael saying hello"`
 * Perform Speed Tests
 
 
