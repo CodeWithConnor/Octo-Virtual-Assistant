@@ -6,13 +6,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -126,15 +119,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
-[contributors-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
-[forks-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/network/members
-[stars-shield]: https://img.shields.io/github/stars/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
-[stars-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/stargazers
-[issues-shield]: https://img.shields.io/github/issues/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
-[issues-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/issues
-[license-shield]: https://img.shields.io/github/license/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
-[license-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
