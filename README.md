@@ -17,7 +17,7 @@
   <h3 align="center">Octo: Virtual Assistant</h3>
 
   <p align="center">
-    An intelligent virtual assistant for Windows, created with Python.
+    A virtual assistant which can send emails, perform speed tests, take notes and create/read meetings using the Google Calendar API.
     <br />
     <a href="https://github.com/CodeWithConnor/Octo-Virtual-Assistant"><strong>Explore the docs »</strong></a>
     <br />
