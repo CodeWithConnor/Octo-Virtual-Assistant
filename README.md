@@ -120,17 +120,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Connor Hanks — www.connorhanks.com
-
-Send me an email at hello@connorhanks.com
-
-Project Link: [https://github.com/ConnorHanks/Octo-Virtual-Assistant](https://github.com/ConnorHanks/Octo-Virtual-Assistant)
-
-
-
 
 
 
@@ -138,14 +127,14 @@ Project Link: [https://github.com/ConnorHanks/Octo-Virtual-Assistant](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ConnorHanks/Octo-Virtual-Assistant.svg?style=flat-square
-[contributors-url]: https://github.com/ConnorHanks/Octo-Virtual-Assistant/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ConnorHanks/Octo-Virtual-Assistant.svg?style=flat-square
-[forks-url]: https://github.com/ConnorHanks/Octo-Virtual-Assistant/network/members
-[stars-shield]: https://img.shields.io/github/stars/ConnorHanks/Octo-Virtual-Assistant.svg?style=flat-square
-[stars-url]: https://github.com/ConnorHanks/Octo-Virtual-Assistant/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ConnorHanks/Octo-Virtual-Assistant.svg?style=flat-square
-[issues-url]: https://github.com/ConnorHanks/Octo-Virtual-Assistant/issues
-[license-shield]: https://img.shields.io/github/license/ConnorHanks/Octo-Virtual-Assistant.svg?style=flat-square
-[license-url]: https://github.com/ConnorHanks/Octo-Virtual-Assistant/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
+[contributors-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
+[forks-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/network/members
+[stars-shield]: https://img.shields.io/github/stars/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
+[stars-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
+[issues-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/issues
+[license-shield]: https://img.shields.io/github/license/CodeWithConnor/Octo-Virtual-Assistant.svg?style=flat-square
+[license-url]: https://github.com/CodeWithConnor/Octo-Virtual-Assistant/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
