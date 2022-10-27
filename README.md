@@ -51,9 +51,9 @@
 <img src="https://user-images.githubusercontent.com/64750179/99158471-fa542580-26ca-11eb-91fb-07c690ae8bd4.gif" alt="gif" width="450" height="113">
  </p>
 
-**Octo is a free, open-source virtual assistant for Windows, coded in Python.**
+**This was my first ever Python project!**
 
-The usage ranges from simple tasks, such as opening web pages or setting a timer, to more advanced features such as sending emails or running speed tests. Providing customized features you won't find elsewhere — Octo is the best virtual assistant for you.
+The usage ranges from simple tasks, such as opening web pages or setting a timer, to more advanced features such as sending emails, running speed tests and creating events in your Google Calendar.
 
 ### Built With
 * [Python 3.6](https://www.python.org/downloads/release/python-360/)
