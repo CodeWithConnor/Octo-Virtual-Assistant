@@ -51,7 +51,7 @@
 <img src="https://user-images.githubusercontent.com/64750179/99158471-fa542580-26ca-11eb-91fb-07c690ae8bd4.gif" alt="gif" width="450" height="113">
  </p>
 
-**This was my first ever Python project and is very basic**
+**Please note: This was my first ever Python project.**
 
 The usage ranges from simple tasks, such as opening web pages or setting a timer, to more advanced features such as sending emails, running speed tests and creating events in your Google Calendar.
 
