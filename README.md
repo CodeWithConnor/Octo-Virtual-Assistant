@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ConnorHanks/Octo-Virtual-Assistant">
+  <a href="https://github.com/CodeWithConnor/Octo-Virtual-Assistant">
     <img src="images/logo.png" alt="Logo" width="128" height="128">
   </a>
 
@@ -26,14 +26,14 @@
   <p align="center">
     An intelligent virtual assistant for Windows, created with Python.
     <br />
-    <a href="https://github.com/ConnorHanks/Octo-Virtual-Assistant"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CodeWithConnor/Octo-Virtual-Assistant"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ConnorHanks/Octo-Virtual-Assistant/blob/master/README.md#installation">Installation</a>
+    <a href="https://github.com/CodeWithConnor/Octo-Virtual-Assistant/blob/master/README.md#installation">Installation</a>
     ·
-    <a href="https://github.com/ConnorHanks/Octo-Virtual-Assistant/issues">Report Bug</a>
+    <a href="https://github.com/CodeWithConnor/Octo-Virtual-Assistant/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ConnorHanks/Octo-Virtual-Assistant/issues">Request Feature</a>
+    <a href="https://github.com/CodeWithConnor/Octo-Virtual-Assistant/issues">Request Feature</a>
   </p>
 </p>
 
@@ -83,7 +83,7 @@ The usage ranges from simple tasks, such as opening web pages or setting a timer
 ### Installation
 
 ```shell
-git clone https://https://github.com/ConnorHanks/Octo-Virtual-Assistant.git
+git clone https://https://github.com/CodeWithConnor/Octo-Virtual-Assistant.git
 cd Octo-Virtual-Assistant
 sudo pip install -r requirements.txt
 ```
@@ -96,7 +96,7 @@ sudo pip install -r requirements.txt
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://https://github.com/ConnorHanks/Octo-Virtual-Assistant/issues) for a list of proposed features (and known issues).
+See the [open issues](https://https://github.com/CodeWithConnor/Octo-Virtual-Assistant/issues) for a list of proposed features (and known issues).
 
 
 
